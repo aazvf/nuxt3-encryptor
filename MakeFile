@@ -2,7 +2,7 @@
 deploy:
 	npm run build
 	npm run generate
-	aws s3 sync .output/public s3://mr-encryptor/ --profile s3deploy --delete
+	aws s3 sync .output/public s3://encrypt.aazvf.art/ --profile s3deploy --delete
 
 
 

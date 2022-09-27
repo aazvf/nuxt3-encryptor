@@ -1,7 +1,7 @@
 # AES encrypt/decrypt tool
 
 
-Live Demo: [http://mr-encryptor.s3-website-eu-west-1.amazonaws.com](http://mr-encryptor.s3-website-eu-west-1.amazonaws.com/)
+Live Demo: [http://encrypt.aazvf.art](http://encrypt.aazvf.art/)
 
 A simple AES encryption tool built in an hour or two and hosted statically on s3.
 
